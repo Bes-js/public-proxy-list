@@ -10,7 +10,7 @@ This directory contains the collected proxy data in various formats.
 
 ## Total Proxies Collected
 
-- Total Count: 38344
+- Total Count: 38342
 
 ## Usage
 
