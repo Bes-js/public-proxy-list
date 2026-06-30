@@ -10,12 +10,12 @@ This directory contains the collected proxy data in various formats.
 
 ## Total Proxies Collected
 
-- Total Count: 1661
+- Total Count: 1743
 
 ## Usage
 
 You can use these files to configure your applications or services that require proxy settings.
 
 ## Note
-    
+ 
 The geolocation data is fetched from an external service and may not be 100% accurate.
